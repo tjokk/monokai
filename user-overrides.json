@@ -1,0 +1,24 @@
+{
+  "source": ".vscode/settings.json",
+  "status": "imported",
+  "workbench.colorTheme": "Monokai Pirokai - Arctic Frost",
+  "colorCustomizations": {
+    "editor.background": "#181818",
+    "terminal.background": "#181818",
+    "panel.background": "#181818",
+    "editor.selectionBackground": "#B88CFF40",
+    "editorCursor.foreground": "#FF9F43",
+    "terminalCursor.foreground": "#B88CFF",
+    "terminal.ansiBlue": "#79D7FF",
+    "terminal.ansiMagenta": "#B88CFF",
+    "terminal.ansiYellow": "#FF9F43",
+    "button.background": "#79D7FF",
+    "textLink.foreground": "#FF9F43",
+    "gitDecoration.addedResourceForeground": "#74D99F",
+    "gitDecoration.modifiedResourceForeground": "#FF9F43",
+    "gitDecoration.deletedResourceForeground": "#FF6B8A",
+    "gitDecoration.untrackedResourceForeground": "#74D99F"
+  },
+  "tokenColorCustomizations": {},
+  "note": "VSCode UI and terminal overrides were imported. Token-level syntax colors are not exposed by these settings and cannot be reproduced by Terminal.app."
+}

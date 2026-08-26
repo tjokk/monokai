@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+  <rect width="1100" height="620" rx="14" fill="#101010"/>
+  <rect width="1100" height="44" rx="14" fill="#252525"/>
+  <rect y="30" width="1100" height="14" fill="#252525"/>
+  <circle cx="22" cy="22" r="7" fill="#ff5f57"/>
+  <circle cx="46" cy="22" r="7" fill="#febc2e"/>
+  <circle cx="70" cy="22" r="7" fill="#28c840"/>
+  <text x="550" y="27" text-anchor="middle" fill="#d4d4d4" font-family="SFMono-Regular,Menlo,monospace" font-size="14">tynnj@tjokk.net — Tjokk Pro</text>
+  <g font-family="SFMono-Regular,Menlo,monospace" font-size="18" xml:space="preserve">
+    <text x="34" y="88" fill="#79d7ff">tynnj@tjokk.net</text>
+    <text x="194" y="88" fill="#d4d4d4">:</text>
+    <text x="207" y="88" fill="#b88cff">~/workbench</text>
+    <text x="333" y="88" fill="#d4d4d4">$ leetpull</text>
+    <text x="34" y="145" fill="#ff9f43">██████████████████████████████</text>
+    <text x="34" y="165" fill="#ff9f43">██</text>
+    <text x="87" y="165" fill="#b88cff">████████  TJOKK.net</text>
+    <text x="337" y="165" fill="#ff9f43">██</text>
+    <text x="34" y="185" fill="#ff9f43">██</text>
+    <text x="87" y="185" fill="#79d7ff">████████  Tjokk Pro</text>
+    <text x="337" y="185" fill="#ff9f43">██</text>
+    <text x="34" y="205" fill="#ff9f43">██</text>
+    <text x="87" y="205" fill="#d4d4d4">████████  Terminal.app</text>
+    <text x="337" y="205" fill="#ff9f43">██</text>
+    <text x="34" y="225" fill="#ff9f43">██████████████████████████████</text>
+    <text x="34" y="278" fill="#74d99f">git</text>
+    <text x="76" y="278" fill="#d4d4d4"> status</text>
+    <text x="34" y="310" fill="#74d99f">On branch</text>
+    <text x="151" y="310" fill="#79d7ff"> main</text>
+    <text x="34" y="342" fill="#74d99f">✓</text>
+    <text x="70" y="342" fill="#d4d4d4"> working tree clean</text>
+    <text x="34" y="395" fill="#79d7ff">tynnj@tjokk.net</text>
+    <text x="194" y="395" fill="#d4d4d4">:</text>
+    <text x="207" y="395" fill="#b88cff">~/workbench</text>
+    <text x="333" y="395" fill="#d4d4d4">$ npm test</text>
+    <text x="34" y="430" fill="#d4d4d4">PASS</text>
+    <text x="103" y="430" fill="#74d99f"> all checks</text>
+    <text x="34" y="462" fill="#d4d4d4">▲</text>
+    <text x="70" y="462" fill="#ff9f43"> ready to ship</text>
+    <text x="34" y="530" fill="#79d7ff">tynnj@tjokk.net</text>
+    <text x="194" y="530" fill="#d4d4d4">:</text>
+    <text x="207" y="530" fill="#b88cff">~/workbench</text>
+    <text x="333" y="530" fill="#d4d4d4">$ </text>
+    <rect x="355" y="513" width="11" height="22" fill="#b88cff"/>
+  </g>
+</svg>
